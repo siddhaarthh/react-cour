@@ -1,0 +1,12 @@
+#hello{
+    display: flex;
+    justify-content: center;
+    background: grey;
+    color: aliceblue;
+}
+
+#root
+{
+    color: grey;
+    text-align: center;
+}
